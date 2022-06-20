@@ -1,0 +1,52 @@
+
+.Welcome{
+    padding: 100px 100px 0 100px;
+}
+
+.form-holder{
+    margin-top: 50px;
+    padding: 50px 60px 50px 60px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+    
+}
+
+
+.mail-place{
+    margin: 40px 0 20px 0;
+}
+
+
+.pass-place{
+    margin: 20px 0 40px 0;
+}
+
+#transaction-area {
+    display: none;
+    padding: 100px 100px 50px 100px;
+}
+
+
+
+.status{
+    color: white;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+    /* box-shadow: 3px 3px 10px gray; */
+}
+
+.deposit{
+    
+    background-color: slateblue;
+}
+
+.withdraw{
+    
+    background-color: lightpink;
+}
+
+.balance{
+    
+    background-color: orange;
+}
